@@ -27,6 +27,8 @@ key findings, interesting visualizations, and potential next steps.
   - user-defined functions
 - insights and conclusions
 
+## # of Rows and Columns in dataset
+
 ## Missing Values
 
 ## Main Insights
