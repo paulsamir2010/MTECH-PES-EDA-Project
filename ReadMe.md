@@ -41,11 +41,15 @@ key findings, interesting visualizations, and potential next steps.
 
 
 
+
+
 ![Correlation Matrix - Heatmap](correlation_heatmap.jpg)
 
 
 
-![Item Outlet Sales by Location Type and Outlet Type](Sales_by_lcationtype_outlettype.jpg)
+
+
+![Item Outlet Sales by Location Type and Outlet Type](Sales_by_lcationtype_outlettype.png)
 
 ## Recommended next step
 Build a predictive model for `Item_Outlet_Sales` using cleaned features.
