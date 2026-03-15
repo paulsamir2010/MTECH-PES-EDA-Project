@@ -79,7 +79,7 @@ Create useful derived features such as Outlet_Age, Item_Category, MRP_Band, and 
 - Item MRP has the strongest positive relationship with sales among numerical features
 - Item visibility has a negative relationship with sales in this dataset
 - Tier 2 and Tier 3 locations perform better than Tier 1 on average sales.
-- 
+  
 
 ## Recommended next step
 
