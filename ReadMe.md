@@ -48,12 +48,7 @@ Standardize inconsistent Item_Fat_Content labels.
 Performed Univariate and Bi-variate analysis to identify the key drivers that influence 'Item Outlet Sales'
 Create useful derived features such as Outlet_Age, Item_Category, MRP_Band, and Visibility_Band
 
-## Main Insights
-- Outlet type has strong impact on average sales
-- Supermarket formats outperform grocery stores
-- Item MRP has the strongest positive relationship with sales among numerical features
-- Item visibility has a negative relationship with sales in this dataset
-- Tier 2 and Tier 3 locations perform better than Tier 1 on average sales.
+
 
 ## Interesting Visualizations
 
@@ -77,6 +72,14 @@ Create useful derived features such as Outlet_Age, Item_Category, MRP_Band, and 
 ![Distribution and Box plot of 'Item Outlet Sales'](Item_Outlet_Sales.jpg)
 
 
+
+## Main Insights
+- Outlet type has strong impact on average sales
+- Supermarket formats outperform grocery stores
+- Item MRP has the strongest positive relationship with sales among numerical features
+- Item visibility has a negative relationship with sales in this dataset
+- Tier 2 and Tier 3 locations perform better than Tier 1 on average sales.
+- 
 
 ## Recommended next step
 
