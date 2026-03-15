@@ -71,6 +71,13 @@ Create useful derived features such as Outlet_Age, Item_Category, MRP_Band, and 
 
 ![Item Outlet Sales by Location Type and Outlet Type](Sales_by_lcationtype_outlettype.png)
 
+
+
+
+![Distribution and Box plot of 'Item Outlet Sales'](Item_Outlet_Sales.jpg)
+
+
+
 ## Recommended next step
 
 -Build a predictive regression model for Item_Outlet_Sales` using cleaned features.
