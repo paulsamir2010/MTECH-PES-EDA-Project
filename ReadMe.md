@@ -74,5 +74,7 @@ Create useful derived features such as Outlet_Age, Item_Category, MRP_Band, and 
 ## Recommended next step
 
 -Build a predictive regression model for Item_Outlet_Sales` using cleaned features.
+
 -Encode categorical variables and test feature importance.
+
 -Compare algorithms such as Linear Regression, Random Forest, and XGBoost.
